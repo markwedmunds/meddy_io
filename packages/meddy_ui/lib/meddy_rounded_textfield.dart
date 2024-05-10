@@ -2,8 +2,8 @@ library meddy_ui;
 
 import 'package:flutter/material.dart';
 
-class RoundedTextField extends StatelessWidget {
-  const RoundedTextField({super.key});
+class MeddyRoundedTextField extends StatelessWidget {
+  const MeddyRoundedTextField({super.key});
 
   @override
   Widget build(BuildContext context) {

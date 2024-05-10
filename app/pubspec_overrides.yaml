@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: meddy_authentication,meddy_ui
+dependency_overrides:
+  meddy_authentication:
+    path: ../packages/meddy_authentication
+  meddy_ui:
+    path: ../packages/meddy_ui

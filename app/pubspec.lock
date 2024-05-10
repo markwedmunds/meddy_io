@@ -126,14 +126,14 @@ packages:
   meddy_authentication:
     dependency: "direct main"
     description:
-      path: "../../packages/meddy_authentication"
+      path: "../packages/meddy_authentication"
       relative: true
     source: path
     version: "0.0.1"
   meddy_ui:
     dependency: "direct main"
     description:
-      path: "../../packages/meddy_ui"
+      path: "../packages/meddy_ui"
       relative: true
     source: path
     version: "0.0.1"
@@ -224,4 +224,3 @@ packages:
     version: "13.0.0"
 sdks:
   dart: ">=3.2.5 <4.0.0"
-  flutter: ">=1.17.0"
